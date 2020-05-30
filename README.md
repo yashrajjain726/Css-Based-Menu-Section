@@ -28,7 +28,7 @@ I have build a Menu section using only the properties of CSS(Cascading Style She
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Css-Based-Menu-Section/issues). You can also take a look at the our project and PR us .[contributing guide](https://github.com/yashrajjain726/Css-Based-Menu-Section/pulls).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Css-Based-Menu-Section/issues). You can also take a look at the our project and PR us .[PR Url](https://github.com/yashrajjain726/Css-Based-Menu-Section/pulls).
 
 ## Show your support
 
