@@ -1,9 +1,9 @@
 
-## Css Based Menu Section ![GitHub stars](https://img.shields.io/github/stars/yashrajjain726/Css-Based-Menu-Section?style=social)![GitHub forks](https://img.shields.io/github/forks/yashrajjain726/Css-Based-Menu-Section?style=social) 
+# Css Based Menu Section ![GitHub stars](https://img.shields.io/github/stars/yashrajjain726/Css-Based-Menu-Section?style=social)![GitHub forks](https://img.shields.io/github/forks/yashrajjain726/Css-Based-Menu-Section?style=social) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yashrajjain726/Css-Based-Menu-Section) ![GitHub last commit](https://img.shields.io/github/last-commit/yashrajjain726/Css-Based-Menu-Section)  ![GitHub issues](https://img.shields.io/github/issues-raw/yashrajjain726/Css-Based-Menu-Section) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/yashrajjain726/Css-Based-Menu-Section)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-#  Css Based Menu Section 
+##  Css Based Menu Section 
 
 I have build a Menu section using only the properties of CSS(Cascading Style Sheets). 
 
