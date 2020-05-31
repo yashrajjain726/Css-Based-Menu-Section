@@ -19,9 +19,9 @@ I have build a Menu section using only the properties of CSS(Cascading Style She
 
 👤 **Yashraj Jain**
 
-* Website: yashrajjain726.github.io
-* Github: [@yashrajjain726](https://github.com/yashrajjain726)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/yashraj-jain-695453178\/](https://linkedin.com/in\/yashraj-jain-695453178\/)
+* [Website](yashrajjain726.github.io)
+* [Github Profile](https://github.com/yashrajjain726)
+* [LinkedIn Profile](https://linkedin.com/in\/yashraj-jain-695453178\/)
 
 ## 🙋 Created and Maintained by. 
 [Yashraj Jain](https://github.com/yashrajjain726)
